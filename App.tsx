@@ -7,7 +7,7 @@ import {createBottomTabNavigator} from "@react-navigation/bottom-tabs";
 import HomePage from "./pages/HomePage";
 import {NavigationContainer} from "@react-navigation/native";
 import {Foundation} from "@expo/vector-icons";
-import {darkgrey, grey, regisred} from "./styles/GlobalTheme";
+import {colors} from "./styles/GlobalTheme";
 
 const Tab = createBottomTabNavigator()
 
@@ -15,8 +15,8 @@ export default () => {
     return (
         <NavigationContainer>
             <Tab.Navigator screenOptions={({route}) => ({
-                tabBarActiveTintColor: regisred,
-                tabBarInactiveTintColor: grey,
+                tabBarActiveTintColor: colors.regisRed,
+                tabBarInactiveTintColor: colors.grey,
                 headerShown: false,
                 tabBarIcon: ({focused, color, size}) => {
                     let iconName;
@@ -25,7 +25,7 @@ export default () => {
                     return <Foundation name={iconName} size={size} color={color}/>
                 },
                 tabBarStyle: {
-                    backgroundColor: darkgrey,
+                    backgroundColor: colors.darkGrey,
                     shadowOpacity: 0,
                     borderTopWidth: 0,
                     elevation: 0

@@ -1,0 +1,7186 @@
+[
+  {
+    "date": "09/13/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/13/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "501",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/13/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/13/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:30 AM",
+    "subject": "Assembly",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/13/21",
+    "startTime": "11:30 AM",
+    "endTime": "12:30 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "412",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/13/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/13/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/14/21",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/14/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Catholics and American Politics [Andreassi]",
+    "location": "312",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/14/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "403",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/14/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/15/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/15/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "512",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/15/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/15/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/15/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "401",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/15/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/15/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/16/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/16/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Catholics and American Politics [Andreassi]",
+    "location": "302",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/16/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/16/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/16/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/16/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "412",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/16/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/16/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/17/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/17/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "501",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/17/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/17/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "408",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/17/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/17/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/20/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/20/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/20/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/20/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Catholics and American Politics [Andreassi]",
+    "location": "413",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/20/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "402",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/20/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/20/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/21/21",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/21/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "411",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/21/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/22/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/22/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/22/21",
+    "startTime": "09:30 AM",
+    "endTime": "10:30 AM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/22/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/22/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/22/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Catholics and American Politics [Andreassi]",
+    "location": "310",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/22/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "419",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/22/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/23/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/23/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "501",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/23/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/23/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:30 AM",
+    "subject": "Assembly",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/23/21",
+    "startTime": "11:30 AM",
+    "endTime": "12:30 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "412",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/23/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/23/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/27/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/27/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/27/21",
+    "startTime": "09:30 AM",
+    "endTime": "10:30 AM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/27/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/27/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "420",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/27/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Catholics and American Politics [Andreassi]",
+    "location": "312",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/27/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "403",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/27/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/28/21",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/28/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "401",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/28/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/28/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/29/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/29/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Catholics and American Politics [Andreassi]",
+    "location": "302",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/29/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/29/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/29/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/29/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "412",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/29/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/29/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/30/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/30/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "501",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/30/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/30/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "408",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/30/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/30/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/01/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/01/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/01/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/01/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Catholics and American Politics [Andreassi]",
+    "location": "413",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/01/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "402",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/01/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/01/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/04/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/04/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/04/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/04/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/04/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/04/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "411",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/04/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/05/21",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/05/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Catholics and American Politics [Andreassi]",
+    "location": "310",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/05/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "419",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/05/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/06/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/06/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "501",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/06/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/06/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:30 AM",
+    "subject": "Assembly",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/06/21",
+    "startTime": "11:30 AM",
+    "endTime": "12:30 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "412",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/06/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/06/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/07/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/07/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/07/21",
+    "startTime": "09:30 AM",
+    "endTime": "10:30 AM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/07/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/07/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "420",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/07/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Catholics and American Politics [Andreassi]",
+    "location": "312",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/07/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "403",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/07/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/08/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/08/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "512",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/08/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/08/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/08/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "401",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/08/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/08/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/12/21",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/12/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "412",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/12/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/12/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/14/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/14/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "501",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/14/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/14/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "408",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/14/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/14/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/15/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/15/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/15/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/15/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Catholics and American Politics [Andreassi]",
+    "location": "413",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/15/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "402",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/15/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/15/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/18/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/18/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/18/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/18/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/18/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/18/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "411",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/18/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/19/21",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/19/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Catholics and American Politics [Andreassi]",
+    "location": "310",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/19/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "419",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/19/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/20/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/20/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "501",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/20/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:15 AM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/20/21",
+    "startTime": "11:30 AM",
+    "endTime": "12:30 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "412",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/20/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/20/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/21/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/21/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/21/21",
+    "startTime": "09:30 AM",
+    "endTime": "10:30 AM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/21/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/21/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "420",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/21/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Catholics and American Politics [Andreassi]",
+    "location": "312",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/21/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "403",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/21/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/25/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/25/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "512",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/25/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/25/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/25/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "401",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/25/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/25/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/26/21",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/26/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "412",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/26/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/26/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/27/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/27/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "501",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/27/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/27/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "408",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/27/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/27/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/28/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/28/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/28/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/28/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Catholics and American Politics [Andreassi]",
+    "location": "413",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/28/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "402",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/28/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/28/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/29/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/29/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/29/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/29/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/29/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/29/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "411",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/29/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/01/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/01/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "501",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/01/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:15 AM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/01/21",
+    "startTime": "11:30 AM",
+    "endTime": "12:30 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "412",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/01/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/01/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/02/21",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/02/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Catholics and American Politics [Andreassi]",
+    "location": "310",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/02/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "419",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/02/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/03/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/03/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/03/21",
+    "startTime": "09:30 AM",
+    "endTime": "10:30 AM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/03/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/03/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "420",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/03/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Catholics and American Politics [Andreassi]",
+    "location": "312",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/03/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "403",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/03/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/04/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/04/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "512",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/04/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/04/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/04/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "401",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/04/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/04/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/05/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/05/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Catholics and American Politics [Andreassi]",
+    "location": "302",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/05/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/05/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/05/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/05/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "412",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/05/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/05/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/08/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/08/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "501",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/08/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/08/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "408",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/08/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/08/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/09/21",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/09/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "402",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/09/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/09/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/10/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/10/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/10/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/10/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/10/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/10/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "411",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/10/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/12/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "https://regis-org.zoom.us/j/8685746767?pwd=TURBQ2wzVm1objRTd1E5bFZBWU9Hdz09",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/12/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "https://regis-org.zoom.us/j/2750549478",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/12/21",
+    "startTime": "09:30 AM",
+    "endTime": "10:30 AM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "https://regis-org.zoom.us/j/6466572020",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/12/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/12/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "https://regis-org.zoom.us/j/4452328015?pwd=ajJGQUZBMSszUDlCMkF2aE5yTWJNZz09",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/12/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Catholics and American Politics [Andreassi]",
+    "location": "https://regis-org.zoom.us/j/3967122805?pwd=WE01L0p5TWhUSW8wRXpYUEt0M3NlZz09",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/12/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "https://regis-org.zoom.us/j/9418447111",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/12/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "https://regis-org.zoom.us/j/8685746767?pwd=TURBQ2wzVm1objRTd1E5bFZBWU9Hdz09",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/15/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/15/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "501",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/15/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/15/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:30 AM",
+    "subject": "Assembly",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/15/21",
+    "startTime": "11:30 AM",
+    "endTime": "12:30 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "412",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/15/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/15/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/16/21",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/16/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Catholics and American Politics [Andreassi]",
+    "location": "312",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/16/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "403",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/16/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/17/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/17/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "512",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/17/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/17/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/17/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "401",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/17/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/17/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/18/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/18/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Catholics and American Politics [Andreassi]",
+    "location": "302",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/18/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/18/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/18/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/18/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "412",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/18/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/18/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/19/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/19/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "501",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/19/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/19/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "408",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/19/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/19/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/22/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/22/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/22/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/22/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Catholics and American Politics [Andreassi]",
+    "location": "413",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/22/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "402",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/22/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/22/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/23/21",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/23/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "The Divine Comedy [Papp]",
+    "location": "411",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/23/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/30/21",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/30/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Theology, Ethics and Economics [DeBonis]",
+    "location": "402",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/30/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "419",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/30/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/01/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/01/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "501",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/01/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/01/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:30 AM",
+    "subject": "Assembly",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/01/21",
+    "startTime": "11:30 AM",
+    "endTime": "12:30 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/01/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/01/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/02/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/02/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/02/21",
+    "startTime": "09:30 AM",
+    "endTime": "10:30 AM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/02/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/02/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "420",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/02/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Theology, Ethics and Economics [DeBonis]",
+    "location": "413",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/02/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "403",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/02/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/03/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/03/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "512",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/03/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/03/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/03/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/03/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/03/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/06/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "https://regis-org.zoom.us/j/8685746767?pwd=TURBQ2wzVm1objRTd1E5bFZBWU9Hdz09",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/06/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Theology, Ethics and Economics [DeBonis]",
+    "location": "https://regis-org.zoom.us/j/6126321788?pwd=OC90THNOYy9LR2dXSzNjTXBycG9wUT09",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/06/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "https://regis-org.zoom.us/j/6466572020",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/06/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/06/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "https://regis-org.zoom.us/j/4452328015?pwd=ajJGQUZBMSszUDlCMkF2aE5yTWJNZz09",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/06/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "https://regis-org.zoom.us/j/9418447111",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/06/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "https://regis-org.zoom.us/j/2346657717",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/06/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "https://regis-org.zoom.us/j/8685746767?pwd=TURBQ2wzVm1objRTd1E5bFZBWU9Hdz09",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/07/21",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/07/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "302",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/07/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/07/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/08/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/08/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/08/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Theology, Ethics and Economics [DeBonis]",
+    "location": "403",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/08/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "402",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/08/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/08/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/09/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/09/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/09/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/09/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/09/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/09/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/09/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/10/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/10/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/10/21",
+    "startTime": "09:30 AM",
+    "endTime": "10:30 AM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/10/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/10/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/10/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Theology, Ethics and Economics [DeBonis]",
+    "location": "402",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/10/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "419",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/10/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/13/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/13/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "501",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/13/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/13/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:30 AM",
+    "subject": "Assembly",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/13/21",
+    "startTime": "11:30 AM",
+    "endTime": "12:30 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/13/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/13/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/14/21",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/14/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Theology, Ethics and Economics [DeBonis]",
+    "location": "413",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/14/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "403",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/14/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/15/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/15/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "512",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/15/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/15/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/15/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/15/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/15/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/16/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/16/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Theology, Ethics and Economics [DeBonis]",
+    "location": "408",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/16/21",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/16/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/16/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/16/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "412",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/16/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/16/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/17/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/17/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "512",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/17/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/17/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "302",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/17/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/17/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/20/21",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/20/21",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/20/21",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/20/21",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Theology, Ethics and Economics [DeBonis]",
+    "location": "403",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/20/21",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "402",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/20/21",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/20/21",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/03/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/03/22",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/03/22",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/03/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/03/22",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/03/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/03/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/04/22",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/04/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Theology, Ethics and Economics [DeBonis]",
+    "location": "402",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/04/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "419",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/04/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/05/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/05/22",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "501",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/05/22",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/05/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:30 AM",
+    "subject": "Assembly",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/05/22",
+    "startTime": "11:30 AM",
+    "endTime": "12:30 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/05/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/05/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/06/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/06/22",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/06/22",
+    "startTime": "09:30 AM",
+    "endTime": "10:30 AM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/06/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/06/22",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "420",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/06/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Theology, Ethics and Economics [DeBonis]",
+    "location": "413",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/06/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "403",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/06/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/07/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/07/22",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "512",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/07/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/07/22",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/07/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/07/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/07/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/11/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "412",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/11/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/11/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/12/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/12/22",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "512",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/12/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/12/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "302",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/12/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/12/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/13/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/13/22",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/13/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/13/22",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Theology, Ethics and Economics [DeBonis]",
+    "location": "403",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/13/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "402",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/13/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/13/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/14/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/14/22",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/14/22",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/14/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/14/22",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/14/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/14/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/18/22",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/18/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Theology, Ethics and Economics [DeBonis]",
+    "location": "402",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/18/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "419",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/18/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/19/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/19/22",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "501",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/19/22",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/19/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:30 AM",
+    "subject": "Assembly",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/19/22",
+    "startTime": "11:30 AM",
+    "endTime": "12:30 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/19/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/19/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/20/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/20/22",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/20/22",
+    "startTime": "09:30 AM",
+    "endTime": "10:30 AM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/20/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/20/22",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "420",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/20/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Theology, Ethics and Economics [DeBonis]",
+    "location": "413",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/20/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "403",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/20/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/21/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/21/22",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "512",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/21/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/21/22",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/21/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/21/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/21/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/24/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/24/22",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Theology, Ethics and Economics [DeBonis]",
+    "location": "408",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/24/22",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/24/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/24/22",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/24/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "412",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/24/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/24/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/25/22",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/25/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "302",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/25/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/25/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/26/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/26/22",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/26/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/26/22",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Theology, Ethics and Economics [DeBonis]",
+    "location": "403",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/26/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "402",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/26/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/26/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/27/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/27/22",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/27/22",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/27/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/27/22",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/27/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/27/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/28/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/28/22",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/28/22",
+    "startTime": "09:30 AM",
+    "endTime": "10:30 AM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/28/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/28/22",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/28/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Theology, Ethics and Economics [DeBonis]",
+    "location": "402",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/28/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "419",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/28/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/31/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/31/22",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "501",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/31/22",
+    "startTime": "09:45 AM",
+    "endTime": "10:15 AM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/31/22",
+    "startTime": "11:30 AM",
+    "endTime": "12:30 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/31/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/31/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/01/22",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/01/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Theology, Ethics and Economics [DeBonis]",
+    "location": "413",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/01/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "403",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/01/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/02/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/02/22",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "512",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/02/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/02/22",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/02/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/02/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/02/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/03/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/03/22",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Theology, Ethics and Economics [DeBonis]",
+    "location": "408",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/03/22",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/03/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/03/22",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/03/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "412",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/03/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/03/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/04/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/04/22",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "512",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/04/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/04/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "302",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/04/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/04/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/07/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/07/22",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/07/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/07/22",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Theology, Ethics and Economics [DeBonis]",
+    "location": "403",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/07/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "402",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/07/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/07/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/08/22",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/08/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/08/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/09/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/09/22",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/09/22",
+    "startTime": "09:30 AM",
+    "endTime": "10:30 AM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/09/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/09/22",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/09/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Theology, Ethics and Economics [DeBonis]",
+    "location": "402",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/09/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "419",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/09/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/10/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/10/22",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "501",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/10/22",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/10/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:30 AM",
+    "subject": "Assembly",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/10/22",
+    "startTime": "11:30 AM",
+    "endTime": "12:30 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/10/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/10/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/11/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/11/22",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/11/22",
+    "startTime": "09:30 AM",
+    "endTime": "10:30 AM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/11/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/11/22",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "420",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/11/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Theology, Ethics and Economics [DeBonis]",
+    "location": "413",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/11/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "403",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/11/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/14/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/14/22",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "512",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/14/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/14/22",
+    "startTime": "11:15 AM",
+    "endTime": "12:30 PM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/14/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/14/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/14/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/15/22",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/15/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "412",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/15/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Phys Ed 12 (A) [Edwards]",
+    "location": "U-GYM",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/15/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/16/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/16/22",
+    "startTime": "08:45 AM",
+    "endTime": "09:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "512",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/16/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/16/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "302",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/16/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Guidance 12 (E) [Febles]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/16/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/17/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/17/22",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/17/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/17/22",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Theology, Ethics and Economics [DeBonis]",
+    "location": "403",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/17/22",
+    "startTime": "01:00 PM",
+    "endTime": "02:00 PM",
+    "subject": "Missing History [Reisig]",
+    "location": "402",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/17/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/17/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/18/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/18/22",
+    "startTime": "08:45 AM",
+    "endTime": "09:45 AM",
+    "subject": "Figuring Reality [Prezioso]",
+    "location": "416",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/18/22",
+    "startTime": "09:45 AM",
+    "endTime": "10:30 AM",
+    "subject": "Calculus AB (A) [Chua]",
+    "location": "503",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/18/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/18/22",
+    "startTime": "11:15 AM",
+    "endTime": "12:15 PM",
+    "subject": "Advanced Topics in Computer Science [Amatrucola]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/18/22",
+    "startTime": "02:00 PM",
+    "endTime": "03:00 PM",
+    "subject": "Japanese Fiction [Dey]",
+    "location": "301",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/18/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/28/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/28/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/28/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/01/22",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/01/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/02/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/02/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/03/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/03/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/03/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/04/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/04/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/04/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/07/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "https://regis-org.zoom.us/j/8685746767?pwd=TURBQ2wzVm1objRTd1E5bFZBWU9Hdz09",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/07/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "https://regis-org.zoom.us/j/8685746767?pwd=TURBQ2wzVm1objRTd1E5bFZBWU9Hdz09",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/07/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "https://regis-org.zoom.us/j/8685746767?pwd=TURBQ2wzVm1objRTd1E5bFZBWU9Hdz09",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/08/22",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/08/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/09/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/09/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/09/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/10/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/10/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/10/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/11/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/11/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:30 AM",
+    "subject": "Assembly",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/11/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/14/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/14/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/14/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/15/22",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/15/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/16/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/16/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/16/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/18/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/18/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/18/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/21/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/21/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/21/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/22/22",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/22/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/23/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/23/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/23/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/24/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/24/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:30 AM",
+    "subject": "Assembly",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/24/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/25/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/25/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/25/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/28/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/28/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/28/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/29/22",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/29/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/30/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/30/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/30/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/31/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/31/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/31/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/04/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/04/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/04/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/05/22",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/05/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/06/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/06/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:30 AM",
+    "subject": "Assembly",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/06/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/07/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/07/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/07/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/08/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/08/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/08/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/11/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/11/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/11/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/12/22",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/12/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/13/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/13/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/13/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/25/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/25/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/25/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/26/22",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/26/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/27/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/27/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/28/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/28/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/28/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "05/02/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "05/02/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "05/02/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "05/03/22",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "05/03/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "05/04/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "05/04/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "05/04/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "05/05/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "05/05/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "05/05/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "05/09/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "05/09/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "05/09/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "05/10/22",
+    "startTime": "08:30 AM",
+    "endTime": "09:15 AM",
+    "subject": "Faculty Meeting",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "05/10/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "05/11/22",
+    "startTime": "08:30 AM",
+    "endTime": "08:45 AM",
+    "subject": "AM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "05/11/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:30 AM",
+    "subject": "Assembly",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "05/11/22",
+    "startTime": "03:00 PM",
+    "endTime": "03:10 PM",
+    "subject": "PM Advisement (4F) [Cullen]",
+    "location": "Cafeteria Front",
+    "isAllDay": "0"
+  },
+  {
+    "date": "05/13/22",
+    "startTime": "10:30 AM",
+    "endTime": "11:15 AM",
+    "subject": "Community Time",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/08/22",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/22/22",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/19/21",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/02/21",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/04/22",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/16/21",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/18/22",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/26/22",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "05/10/22",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/25/22",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/29/22",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/08/22",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/12/22",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/07/21",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/23/21",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/05/21",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/21/21",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "05/03/22",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/26/21",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/15/22",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "01/11/22",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "03/01/22",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/09/21",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/28/21",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "12/14/21",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "10/12/21",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "11/30/21",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/14/21",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/01/22",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "02/15/22",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "04/05/22",
+    "startTime": "09:00 AM",
+    "endTime": "01:00 PM",
+    "subject": "Christian Service",
+    "location": "",
+    "isAllDay": "0"
+  },
+  {
+    "date": "09/13/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "A Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "09/14/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "B Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "09/15/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "C Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "09/16/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "D Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "09/17/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "E Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "09/20/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "F Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "09/21/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "G Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "09/22/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "H Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "09/23/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "A Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "09/27/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "B Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "09/28/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "C Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "09/29/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "D Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "09/30/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "E Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "10/01/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "F Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "10/04/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "G Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "10/05/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "H Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "10/06/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "A Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "10/07/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "B Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "10/08/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "C Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "10/12/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "D Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "10/14/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "E Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "10/15/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "F Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "10/18/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "G Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "10/19/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "H Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "10/20/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "A Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "10/21/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "B Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "10/25/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "C Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "10/26/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "D Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "10/27/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "E Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "10/28/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "F Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "10/29/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "G Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "11/01/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "A Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "11/02/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "H Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "11/03/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "B Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "11/04/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "C Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "11/05/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "D Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "11/08/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "E Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "11/09/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "F Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "11/10/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "G Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "11/12/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "H Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "11/15/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "A Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "11/16/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "B Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "11/17/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "C Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "11/18/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "D Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "11/19/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "E Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "11/22/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "F Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "11/23/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "G Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "11/30/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "H Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "12/01/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "A Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "12/02/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "B Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "12/03/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "C Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "12/06/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "D Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "12/07/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "E Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "12/08/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "F Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "12/09/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "G Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "12/10/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "H Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "12/13/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "A Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "12/14/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "B Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "12/15/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "C Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "12/16/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "D Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "12/17/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "E Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "12/20/21",
+    "startTime": null,
+    "endTime": null,
+    "subject": "F Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "01/03/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "G Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "01/04/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "H Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "01/05/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "A Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "01/06/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "B Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "01/07/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "C Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "01/11/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "D Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "01/12/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "E Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "01/13/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "F Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "01/14/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "G Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "01/18/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "H Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "01/19/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "A Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "01/20/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "B Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "01/21/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "C Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "01/24/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "D Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "01/25/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "E Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "01/26/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "F Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "01/27/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "G Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "01/28/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "H Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "01/31/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "A Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "02/01/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "B Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "02/02/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "C Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "02/03/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "D Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "02/04/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "E Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "02/07/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "F Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "02/08/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "G Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "02/09/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "H Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "02/10/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "A Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "02/11/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "B Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "02/14/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "C Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "02/15/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "D Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "02/16/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "E Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "02/17/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "F Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "02/18/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "G Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "02/28/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "H Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "03/01/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "B Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "03/02/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "A Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "03/03/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "C Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "03/04/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "D Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "03/07/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "E Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "03/08/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "F Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "03/09/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "G Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "03/10/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "H Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "03/11/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "A Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "03/14/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "B Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "03/15/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "C Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "03/16/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "D Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "03/18/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "E Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "03/21/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "F Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "03/22/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "G Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "03/23/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "H Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "03/24/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "A Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "03/25/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "B Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "03/28/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "C Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "03/29/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "D Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "03/30/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "E Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "03/31/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "F Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "04/04/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "G Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "04/05/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "H Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "04/06/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "A Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "04/07/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "B Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "04/08/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "C Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "04/11/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "D Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "04/12/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "E Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "04/13/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "F Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "04/25/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "G Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "04/26/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "H Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "04/27/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "A Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "04/28/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "B Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "05/02/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "C Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "05/03/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "D Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "05/04/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "E Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "05/05/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "F Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "05/09/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "G Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "05/10/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "H Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "05/11/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "A Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "05/13/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "B Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "05/16/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "C Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "05/17/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "D Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "05/18/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "E Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "05/19/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "F Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "05/20/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "G Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "05/23/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "H Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "05/24/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "A Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "05/25/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "B Day",
+    "location": null,
+    "isAllDay": "1"
+  },
+  {
+    "date": "05/26/22",
+    "startTime": null,
+    "endTime": null,
+    "subject": "C Day",
+    "location": null,
+    "isAllDay": "1"
+  }
+]
